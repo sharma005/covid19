@@ -53,8 +53,8 @@
       <div class="main_header mt-5">
           <div class="row w-100 h-100">
               <div class="col-lg-5 col-md-5 col-12 order-lg-1 order-2">
-                    <div class="leftside w-100 h-100 d-flex justify-content-center align-items-center">
-                        <img src="img/1.jpg" width="300" height="300" class="img-fluid">
+                    <div class="leftside1 w-100 h-100 d-flex justify-content-center align-items-center">
+                        <img src="img/11.png" width="300" height="300" class="img-fluid">
                     </div>
               </div>
               
