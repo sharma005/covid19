@@ -102,6 +102,7 @@
             <h3 class="text-uppercase text-center">
                     COVID-19 India Live Update
             </h3>
+	    <p class="text-center " style="font-weight:bold;" >To get a batter experience in mobile, please visit in desktop mode. </p>
         </div>
         <div class="table-responsive">
             <table class="table table-bordered text-center table-striped" id="tbval">
