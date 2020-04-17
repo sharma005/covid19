@@ -113,7 +113,7 @@
                         <th>active</th>
                         <th>recovered</th>
                         <th>deaths</th>
-                        <th>lastupdatedtime</th>
+                        <th>last updated time</th>
                         
                     </tr>
                     <?php
